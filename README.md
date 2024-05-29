@@ -1,0 +1,1 @@
+#Site dedicado a divulgar meu trabalho como gestor de trafego pago.
